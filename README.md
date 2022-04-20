@@ -1,6 +1,5 @@
-# Game-Test-Inowize-Repo
+# Commands
  
-Commands: 
 
 On R you reload.
 
